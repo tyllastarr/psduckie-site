@@ -1,0 +1,1 @@
+<?php printf( __( '&copy; %s. All Rights Reserved', 'neo-trendy' ), neo_trendy_get_copyright_years() ); ?>, <a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo(); ?></a> 

@@ -1,0 +1,17 @@
+==== Neo Trendy ===
+
+==Changelog==
+
+v1.0.4.1 - 21-Feb-2016 - Minor fixes.
+
+v1.0.4 - 12-Feb-2016 - Removed tag fixed-layout, Dynamic copyright modified.
+
+v1.0.3 - 11-Jan-2016 - Removed footer credit links, Removed accesibility ready tag. Removed backwards compatibility with 
+		title-tag, neo-trendy.pot file is updated.
+
+
+v1.0.2 - 19-Oct-2015 - BuddyPress support added - plugin-buddypress.php
+
+v1.0.1 - 14-Oct-2015 - Fixed minor header issues. Footer credit links are made nofollow and target blank.
+
+v1.0.0 - 25-Sept-2015 - Initial stable theme release.

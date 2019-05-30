@@ -1,0 +1,7 @@
+[15-Mar-2018 05:04:27 UTC] PHP Fatal error:  Call to undefined function get_header() in /home3/psduckie/public_html/wp-content/themes/twentythirteen/404.php on line 10
+[28-Apr-2018 19:32:06 UTC] PHP Fatal error:  Call to undefined function get_header() in /home3/psduckie/public_html/wp-content/themes/twentythirteen/404.php on line 10
+[02-Jun-2018 22:49:28 UTC] PHP Fatal error:  Call to undefined function get_header() in /home3/psduckie/public_html/wp-content/themes/twentythirteen/404.php on line 10
+[08-Nov-2018 08:51:19 UTC] PHP Fatal error:  Call to undefined function get_header() in /home3/psduckie/public_html/wp-content/themes/twentythirteen/index.php on line 17
+[08-Nov-2018 12:11:20 UTC] PHP Fatal error:  Call to undefined function get_header() in /home3/psduckie/public_html/wp-content/themes/twentythirteen/index.php on line 17
+[08-Nov-2018 14:38:00 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home3/psduckie/public_html/wp-content/themes/twentythirteen/comments.php on line 16
+[08-Nov-2018 17:22:57 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home3/psduckie/public_html/wp-content/themes/twentythirteen/comments.php on line 16

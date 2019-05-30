@@ -1,0 +1,26 @@
+[31-Jul-2014 09:27:23 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home4/psduckie/public_html/wp-includes/nav-menu-template.php on line 16
+[31-Jul-2014 09:27:36 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home4/psduckie/public_html/wp-includes/author-template.php on line 459
+[31-Jul-2014 09:27:43 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home4/psduckie/public_html/wp-includes/general-template.php on line 1608
+[31-Jul-2014 09:28:41 America/Denver] PHP Fatal error:  Call to undefined function add_filter() in /home4/psduckie/public_html/wp-includes/default-filters.php on line 17
+[31-Jul-2014 09:28:43 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home4/psduckie/public_html/wp-includes/default-widgets.php on line 14
+[31-Jul-2014 09:29:04 America/Denver] PHP Fatal error:  Call to undefined function is_admin() in /home4/psduckie/public_html/wp-includes/vars.php on line 23
+[31-Jul-2014 09:29:06 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home4/psduckie/public_html/wp-includes/kses.php on line 1422
+[31-Jul-2014 09:29:09 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home4/psduckie/public_html/wp-includes/taxonomy.php on line 129
+[31-Jul-2014 09:29:11 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home4/psduckie/public_html/wp-includes/theme.php on line 671
+[31-Jul-2014 09:29:17 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home4/psduckie/public_html/wp-includes/canonical.php on line 530
+[31-Jul-2014 09:29:29 America/Denver] PHP Fatal error:  Call to undefined function add_filter() in /home4/psduckie/public_html/wp-includes/shortcodes.php on line 407
+[31-Jul-2014 09:29:31 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/psduckie/public_html/wp-includes/rss.php on line 19
+[31-Jul-2014 09:29:36 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/psduckie/public_html/wp-includes/functions.php on line 8
+[31-Jul-2014 09:29:36 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/psduckie/public_html/wp-includes/functions.php on line 8
+[31-Jul-2014 09:29:36 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home4/psduckie/public_html/wp-includes/functions.php on line 8
+[31-Jul-2014 09:29:38 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/psduckie/public_html/wp-includes/script-loader.php on line 25
+[31-Jul-2014 09:29:38 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/psduckie/public_html/wp-includes/script-loader.php on line 25
+[31-Jul-2014 09:29:38 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home4/psduckie/public_html/wp-includes/script-loader.php on line 25
+[27-Dec-2016 14:00:05 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/psduckie/public_html/wp-includes/registration-functions.php on line 7
+[28-Dec-2016 00:52:02 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/psduckie/public_html/wp-includes/registration-functions.php on line 7
+[28-Dec-2016 00:52:02 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/psduckie/public_html/wp-includes/registration-functions.php on line 7
+[01-Jan-2017 12:57:32 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/psduckie/public_html/wp-includes/registration-functions.php on line 7
+[01-Jan-2017 12:57:33 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/psduckie/public_html/wp-includes/registration-functions.php on line 7
+[10-Mar-2017 17:02:29 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/psduckie/public_html/wp-includes/rss-functions.php on line 8
+[21-Mar-2017 19:00:29 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/psduckie/public_html/wp-includes/registration-functions.php on line 7
+[21-Oct-2017 16:44:47 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/psduckie/public_html/wp-includes/registration-functions.php on line 7

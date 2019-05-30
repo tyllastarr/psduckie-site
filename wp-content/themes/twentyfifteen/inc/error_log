@@ -1,0 +1,8 @@
+[26-Oct-2018 01:53:22 UTC] PHP Fatal error:  Call to undefined function add_action() in /home3/psduckie/public_html/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[26-Oct-2018 04:05:53 UTC] PHP Fatal error:  Call to undefined function add_action() in /home3/psduckie/public_html/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[26-Oct-2018 05:49:41 UTC] PHP Fatal error:  Call to undefined function add_action() in /home3/psduckie/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[26-Oct-2018 07:52:41 UTC] PHP Fatal error:  Call to undefined function add_action() in /home3/psduckie/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[26-Oct-2018 10:27:35 UTC] PHP Fatal error:  Call to undefined function add_action() in /home3/psduckie/public_html/wp-content/themes/twentyfifteen/inc/customizer.php on line 83
+[26-Oct-2018 12:31:21 UTC] PHP Fatal error:  Call to undefined function add_action() in /home3/psduckie/public_html/wp-content/themes/twentyfifteen/inc/customizer.php on line 83
+[26-Oct-2018 14:53:08 UTC] PHP Fatal error:  Call to undefined function add_action() in /home3/psduckie/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171
+[26-Oct-2018 17:34:14 UTC] PHP Fatal error:  Call to undefined function add_action() in /home3/psduckie/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171
